@@ -24,7 +24,7 @@ Crie o arquivo api.http para declarar as 2 chamadas a serem realizadas.
 ## Tecnologias
 
 - Typescript / Javascript
-- Next.js
+- Next.js / React.js
 - Prisma ORM
 - SQLite
 

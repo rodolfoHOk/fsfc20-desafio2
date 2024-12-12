@@ -1,0 +1,15 @@
+### Create chat bad request with empty message
+POST http://localhost:3000/api/chats
+Content-Type: application/json
+
+{
+  "message": ""
+}
+
+### Create chat bad request without message
+POST http://localhost:3000/api/chats
+Content-Type: application/json
+
+{
+
+}
